@@ -42,13 +42,13 @@
 .paragraph_style_1 {
     color: rgb(94, 94, 94);
     font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
-    font-size: 18px;
+    font-size: 20px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 600;
     letter-spacing: 0;
-    line-height: 20px;
+    line-height: 23px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -64,13 +64,13 @@
 .paragraph_style_2 {
     color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 15px;
+    font-size: 18px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 20px;
+    line-height: 27px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -89,13 +89,13 @@
 .paragraph_style_3 {
     color: rgb(94, 94, 94);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 25px;
+    line-height: 27px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -110,11 +110,11 @@
 }
 .style_4 {
     font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
-    font-size: 18px;
+    font-size: 20px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 600;
-    line-height: 24px;
+    line-height: 28px;
 }
 .paragraph_style_4 {
     color: rgb(94, 94, 94);
@@ -160,9 +160,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_630_74 {
-    position: relative;
-}
 .style_5 {
     font-family: 'Baskerville', 'Times New Roman', serif;
     font-size: 15px;
@@ -170,9 +167,6 @@
     font-style: normal;
     font-weight: 400;
     line-height: 20px;
-}
-.style_External_630_117 {
-    position: relative;
 }
 .paragraph_style_6 {
     color: rgb(94, 94, 94);
@@ -206,6 +200,28 @@
 }
 .paragraph_style_7 {
     color: rgb(94, 94, 94);
+    font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
+    font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 28px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_8 {
+    color: rgb(94, 94, 94);
     font-family: 'Baskerville', 'Times New Roman', serif;
     font-size: 15px;
     font-stretch: normal;
@@ -226,27 +242,10 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
+.style_External_739_77 {
+    position: relative;
 }
-.style_SkipStroke {
-    background: rgb(255, 255, 255);
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: rgb(255, 255, 255);
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: rgb(255, 255, 255);
-    opacity: 1.00;
-}
-.paragraph_style_8 {
+.paragraph_style_9 {
     color: rgb(94, 94, 94);
     font-family: 'Baskerville', 'Times New Roman', serif;
     font-size: 15px;
@@ -268,16 +267,39 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_9 {
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: rgb(255, 255, 255);
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_856_117 {
+    position: relative;
+}
+.style_SkipStroke_3 {
+    background: rgb(255, 255, 255);
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: rgb(255, 255, 255);
+    opacity: 1.00;
+}
+.paragraph_style_10 {
     color: rgb(94, 94, 94);
     font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 18px;
+    font-size: 20px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 24px;
+    line-height: 28px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -292,13 +314,13 @@
 }
 .style_7 {
     font-family: 'Baskerville-Bold', 'Baskerville', 'Times New Roman', serif;
-    font-size: 18px;
+    font-size: 20px;
     font-stretch: normal;
     font-style: normal;
     font-weight: 700;
-    line-height: 25px;
+    line-height: 28px;
 }
-.paragraph_style_10 {
+.paragraph_style_11 {
     color: rgb(94, 94, 94);
     font-family: 'Baskerville', 'Times New Roman', serif;
     font-size: 16px;
@@ -320,7 +342,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_11 {
+.paragraph_style_12 {
     color: rgb(94, 94, 94);
     font-family: 'Baskerville', 'Times New Roman', serif;
     font-size: 15px;
@@ -342,7 +364,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_12 {
+.paragraph_style_13 {
     color: rgb(94, 94, 94);
     font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
     font-size: 24px;
@@ -350,28 +372,6 @@
     font-style: normal;
     font-variant: normal;
     font-weight: 600;
-    letter-spacing: 0;
-    line-height: 34px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_13 {
-    color: rgb(94, 94, 94);
-    font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 24px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
     letter-spacing: 0;
     line-height: 34px;
     margin-bottom: 0px;
@@ -433,7 +433,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_630_74 {
+.Normal_External_739_77 {
     position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
@@ -447,19 +447,19 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_346_50 {
+.graphic_textbox_layout_style_default_External_379_46 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_630_94 {
+.graphic_textbox_layout_style_default_External_856_117 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_630_73 {
+.graphic_textbox_layout_style_default_External_630_56 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_630_117 {
+.graphic_textbox_layout_style_default_External_854_135 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_630_135 {
+.graphic_textbox_layout_style_default_External_858_97 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
