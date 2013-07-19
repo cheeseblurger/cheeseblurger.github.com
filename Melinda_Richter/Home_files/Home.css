@@ -242,9 +242,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_739_77 {
-    position: relative;
-}
 .paragraph_style_9 {
     color: rgb(94, 94, 94);
     font-family: 'Baskerville', 'Times New Roman', serif;
@@ -255,6 +252,31 @@
     font-weight: 400;
     letter-spacing: 0;
     line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_External_739_77 {
+    position: relative;
+}
+.paragraph_style_10 {
+    color: rgb(94, 94, 94);
+    font-family: 'Baskerville', 'Times New Roman', serif;
+    font-size: 20px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 28px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -289,28 +311,6 @@
 .style_SkipStroke_4 {
     background: rgb(255, 255, 255);
     opacity: 1.00;
-}
-.paragraph_style_10 {
-    color: rgb(94, 94, 94);
-    font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 20px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 28px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
 }
 .style_7 {
     font-family: 'Baskerville-Bold', 'Baskerville', 'Times New Roman', serif;
@@ -447,13 +447,13 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_379_46 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_856_117 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_630_56 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_379_62 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_854_135 {
