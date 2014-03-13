@@ -234,6 +234,9 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_739_77 {
+    position: relative;
+}
 .style_6 {
     font-family: 'Baskerville-Bold', 'Baskerville', 'Times New Roman', serif;
     font-size: 20px;
@@ -242,8 +245,25 @@
     font-weight: 700;
     line-height: 28px;
 }
-.style_External_739_77 {
-    position: relative;
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: rgb(255, 255, 255);
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: rgb(255, 249, 227);
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: rgb(255, 249, 227);
+    opacity: 1.00;
 }
 .paragraph_style_9 {
     color: rgb(94, 94, 94);
@@ -266,26 +286,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: rgb(255, 255, 255);
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: rgb(255, 255, 255);
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: rgb(255, 255, 255);
-    opacity: 1.00;
 }
 .paragraph_style_10 {
     color: rgb(94, 94, 94);
@@ -335,7 +335,7 @@
     background: rgb(255, 255, 255);
     opacity: 1.00;
 }
-.style_External_860_141 {
+.style_External_934_141 {
     position: relative;
 }
 .Body {
@@ -399,7 +399,10 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_860_119 {
+.graphic_textbox_layout_style_default_External_935_114 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_935_119 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_630_56 {
@@ -408,10 +411,7 @@
 .graphic_textbox_layout_style_default_External_379_62 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_860_142 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_860_141 {
+.graphic_textbox_layout_style_default_External_934_141 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
