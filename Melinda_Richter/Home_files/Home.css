@@ -103,13 +103,13 @@
 .paragraph_style_4 {
     color: rgb(94, 94, 94);
     font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 16px;
+    font-size: 20px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 22px;
+    line-height: 28px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -169,13 +169,13 @@
 .paragraph_style_7 {
     color: rgb(94, 94, 94);
     font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 16px;
+    font-size: 20px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 22px;
+    line-height: 28px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -254,6 +254,9 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_934_98 {
+    position: relative;
+}
 .paragraph_style_11 {
     color: rgb(94, 94, 94);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -276,6 +279,34 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_2 {
+    background: rgb(255, 255, 255);
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: rgb(222, 243, 237);
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: rgb(255, 245, 146);
+    opacity: 1.00;
+}
+.style_SkipStroke_4 {
+    background: rgb(255, 255, 255);
+    opacity: 1.00;
+}
+.style_SkipStroke_5 {
+    background: rgb(255, 249, 227);
+    opacity: 1.00;
+}
+.style_SkipStroke_6 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_3 {
     font-family: 'Baskerville', 'Times New Roman', serif;
     font-size: 15px;
@@ -292,40 +323,13 @@
     font-weight: 700;
     line-height: 20px;
 }
-.style_SkipStroke_2 {
-    background: rgb(255, 255, 255);
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: rgb(222, 243, 237);
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: rgb(211, 252, 177);
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: rgb(255, 255, 255);
-    opacity: 1.00;
-}
-.style_SkipStroke_5 {
-    background: rgb(255, 255, 255);
-    opacity: 1.00;
-}
-.style_SkipStroke_6 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_SkipStroke_7 {
-    background: rgb(211, 252, 177);
+    background: rgb(255, 249, 227);
     opacity: 1.00;
 }
-.style_External_934_93 {
-    position: relative;
+.style_SkipStroke_8 {
+    background: rgb(255, 245, 146);
+    opacity: 1.00;
 }
 .style_External_991_121 {
     position: relative;
@@ -394,22 +398,19 @@
     background: transparent;
     opacity: 1.00;
 }
+.graphic_textbox_layout_style_default_External_934_74 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_235_60 {
+.graphic_textbox_layout_style_default_External_234_58 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_934_68 {
+.graphic_textbox_layout_style_default_External_934_98 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_934_77 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_934_73 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_934_93 {
+.graphic_textbox_layout_style_default_External_935_46 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_934_38 {
