@@ -1,8 +1,5 @@
-.style {
-    padding: 4px;
-}
 .paragraph_style {
-    color: rgb(94, 94, 94);
+    color: rgb(0, 0, 0);
     font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
     font-size: 48px;
     font-stretch: normal;
@@ -23,8 +20,16 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style {
+    font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
+    font-size: 9px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 10px;
+}
 .paragraph_style_1 {
-    color: rgb(94, 94, 94);
+    color: rgb(0, 0, 0);
     font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
     font-size: 24px;
     font-stretch: normal;
@@ -32,7 +37,7 @@
     font-variant: normal;
     font-weight: 600;
     letter-spacing: 0;
-    line-height: 28px;
+    line-height: 31px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -45,16 +50,20 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
 .paragraph_style_2 {
     color: rgb(88, 77, 77);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 18px;
+    font-family: 'Baskerville', 'Times New Roman', serif;
+    font-size: 32px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 27px;
+    line-height: 44px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -68,175 +77,15 @@
     text-transform: none;
 }
 .paragraph_style_3 {
-    color: rgb(94, 94, 94);
-    font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 20px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 28px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: justify;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_4 {
-    color: rgb(94, 94, 94);
-    font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 10px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 13px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: justify;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_5 {
-    color: rgb(94, 94, 94);
-    font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 20px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: justify;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_6 {
-    color: rgb(94, 94, 94);
-    font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 20px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 28px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_7 {
-    color: rgb(94, 94, 94);
-    font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 10px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 13px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_8 {
-    color: rgb(94, 94, 94);
-    font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 20px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_9 {
-    color: rgb(94, 94, 94);
-    font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
-    font-size: 24px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 600;
-    letter-spacing: 0;
-    line-height: 34px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_1 {
-    padding: 5px;
-}
-.style_External_934_98 {
-    position: relative;
-}
-.paragraph_style_10 {
-    color: rgb(94, 94, 94);
+    color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 15px;
+    font-size: 32px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 20px;
+    line-height: 44px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -244,29 +93,13 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: justify;
+    text-align: center;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
 }
-.style_2 {
-    font-family: 'Baskerville', 'Times New Roman', serif;
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 20px;
-}
-.style_3 {
-    font-family: 'Baskerville-Bold', 'Baskerville', 'Times New Roman', serif;
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 20px;
-}
-.style_SkipStroke_2 {
-    background: rgb(255, 255, 255);
+.style_SkipStroke_3 {
+    background: transparent;
     opacity: 1.00;
 }
 .style_SkipStroke {
@@ -276,58 +109,6 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: rgb(255, 255, 255);
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: rgb(255, 249, 227);
-    opacity: 1.00;
-}
-.style_SkipStroke_5 {
-    background: transparent;
-    opacity: 1.00;
-}
-.paragraph_style_11 {
-    color: rgb(94, 94, 94);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 20px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 27px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: justify;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_4 {
-    font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
-    font-size: 20px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 600;
-    line-height: 28px;
-}
-.style_SkipStroke_6 {
-    background: rgb(255, 245, 146);
-    opacity: 1.00;
-}
-.style_External_991_121 {
-    position: relative;
-}
-.style_External_934_36 {
-    position: relative;
 }
 .Body {
     color: rgb(88, 77, 77);
@@ -376,7 +157,7 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_991_121 {
+.Normal_External_900_154 {
     position: relative;
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
@@ -387,22 +168,10 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_textbox_layout_style_default_External_934_74 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_934_98 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_234_58 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_935_46 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_934_36 {
+.graphic_textbox_layout_style_default_External_800_254 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -424,6 +193,18 @@ a:hover {
 .bumper {
     font-size: 1px;
     line-height: 1px;
+}
+#widget0 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget0 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
 }
 .spacer {
     font-size: 1px;
