@@ -71,7 +71,7 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
@@ -93,7 +93,7 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
@@ -171,7 +171,7 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_800_254 {
+.graphic_textbox_layout_style_default_External_704_254 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
