@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:A5CD0FF8-C3FA-4ACD-BCE7-03966C442D37</id>
  <title>Page list Atom feed</title>
- <updated>2014-07-13T11:37:47-04:00</updated>
+ <updated>2014-12-09T15:55:05-05:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">78AB82A5-D2E6-4257-9EC3-8B716BA994DB</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2014-07-13T11:37:47.001-04:00</updated>
+  <updated>2014-12-09T15:55:05.001-05:00</updated>
   <content>Home</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Appraisals</title>
   <in-navbar xmlns="urn:iweb:">34A5B841-40B6-410C-8F4E-71A39EE2E927</in-navbar>
   <link rel="alternate" href="Appraisals.html"/>
-  <updated>2014-07-13T11:37:47.002-04:00</updated>
+  <updated>2014-12-09T15:55:05.002-05:00</updated>
   <content>Appraisals</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Consulting</title>
   <in-navbar xmlns="urn:iweb:">DCB7B1AB-D95A-41A9-B649-B55C8AEC1E95</in-navbar>
   <link rel="alternate" href="Consulting.html"/>
-  <updated>2014-07-13T11:37:47.003-04:00</updated>
+  <updated>2014-12-09T15:55:05.003-05:00</updated>
   <content>Consulting</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">Other Services</title>
   <in-navbar xmlns="urn:iweb:">E9817B5D-9493-492C-8121-C9C0FA3875F5</in-navbar>
   <link rel="alternate" href="Other_Services.html"/>
-  <updated>2014-07-13T11:37:47.004-04:00</updated>
+  <updated>2014-12-09T15:55:05.004-05:00</updated>
   <content>Other Services</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">Contact</title>
   <in-navbar xmlns="urn:iweb:">6425CC1E-4ED2-4405-9470-1704AC05D5CA</in-navbar>
   <link rel="alternate" href="Contact.html"/>
-  <updated>2014-07-13T11:37:47.005-04:00</updated>
+  <updated>2014-12-09T15:55:05.005-05:00</updated>
   <content>Contact</content>
  </entry>
 </feed>
